@@ -1,17 +1,17 @@
 # Hi there, I'm Dilkhush 👋
 
-🚀 **  Full-Stack Web Developer | Aspiring IoT Developer | Tech Enthusiast**
+ **  Full-Stack Web Developer | Aspiring IoT Developer | Tech Enthusiast**
 
 ---
 
-## 🌟 About Me
-- 🎓 B.Tech student passionate about **IoT, Web Development, and Embedded Systems**.
-- 💡 I love building **real-world projects** like IoT-based Smart Garbage Bin, Personal Finance Tracker, and Doctor Appointment System.
-- ♟️ In my free time, I play chess, watch movies, and explore new technologies.
+## About Me
+- B.Tech student passionate about **IoT, Web Development, and Embedded Systems**.
+- I love building **real-world projects** like IoT-based Smart Garbage Bin, Personal Finance Tracker, and Doctor Appointment System.
+- In my free time, I play chess, watch movies, and explore new technologies.
 
 ---
 
-## 🛠 Tech Stack
+##Tech Stack
 
 ### **Languages**
 - JavaScript (ES6+)
@@ -41,15 +41,15 @@
 
 ---
 
-## 📌 Projects
-- 🩺 **MyDoctor** – Doctor Appointment Booking System (MERN Stack)
-- 💰 **Personal Finance Tracker** – Spending limit alerts, Google Sheets API integration
-- 🗑 **Smart Garbage Bin with GPS & SMS Alert** – IoT + Embedded project
-- ⚡ Various **Verilog Designs** – MUX/DEMUX, Flip-flops, ALUs, Counters
+## Projects
+- **MyDoctor** – Doctor Appointment Booking System (MERN Stack)
+- **Personal Finance Tracker** – Spending limit alerts, Google Sheets API integration
+- **Smart Garbage Bin with GPS & SMS Alert** – IoT + Embedded project
+-  Various **Verilog Designs** – MUX/DEMUX, Flip-flops, ALUs, Counters
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 - **GitHub**: [github.com/DilkhushNapit](https://github.com/DilkhushNapit)
 - **LinkedIn**: [linkedin.com/in/dilkhushnapit](https://linkedin.com/in/dilkhushnapit)
 - **Email**:napitdilkhush49@gmail.com
