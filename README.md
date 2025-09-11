@@ -51,7 +51,7 @@
 
 ## Connect with Me
 - **GitHub**: [github.com/DilkhushNapit](https://github.com/DilkhushNapit)
-- **LinkedIn**: [linkedin.com/in/dilkhushnapit](https://linkedin.com/in/dilkhushnapit)
+- **LinkedIn**: [linkedin.com/in/dilkhushnapit](linkedin.com/in/dilkhush-napit-4037b02a0)
 - **Email**:napitdilkhush49@gmail.com
 
 ---
