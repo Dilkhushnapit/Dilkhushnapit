@@ -43,7 +43,8 @@
 
 ## Projects
 - **MyDoctor** – Doctor Appointment Booking System (MERN Stack)
-- **Personal Finance Tracker** – Spending limit alerts, Google Sheets API integration
+- **Virtual AI Hand Gesture Keyboard** – Computer Vision Project
+- **Book Review Web Application** – Book Review system (MERN Stack)
 - **Smart Garbage Bin with GPS & SMS Alert** – IoT + Embedded project
 -  Various **Verilog Designs** – MUX/DEMUX, Flip-flops, ALUs, Counters
 
