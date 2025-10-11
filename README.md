@@ -1,6 +1,6 @@
 # Hi there, I'm Dilkhush 👋
 
- **  Full-Stack Web Developer | Exploring Artificial Intelligence IoT Developer | Tech Enthusiast**
+ **  Full-Stack Web Developer | Exploring Artificial Intelligence & IoT Developer | Tech Enthusiast**
 
 ---
 
