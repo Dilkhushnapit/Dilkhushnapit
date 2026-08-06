@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,00f2fe,50,4facfe,100,7f00ff&height=220&section=header&text=Dilkhush%20Napit&fontSize=42&fontAlign=50&fontAlignY=36&desc=Backend%20%26%20Full-Stack%20Engineer%20%7C%20NIT%20Sikkim%20ECE&descSize=18&descAlign=50&descAlignY=62" width="100%" alt="Dilkhush Napit Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,00f2fe,50,4facfe,100,7f00ff&height=220&section=header&text=Dilkhush%20Napit&fontSize=42&fontAlign=50&fontAlignY=36&desc=Backend%20and%20Full-Stack%20Engineer%20%7C%20NIT%20Sikkim%20ECE&descSize=18&descAlign=50&descAlignY=62" width="100%" alt="Dilkhush Napit Header" />
 
   <br />
 
