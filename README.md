@@ -87,13 +87,13 @@ I'm a final-year **Electronics and Communication Engineering** student at **NIT 
  
 ## 🚀 Featured Projects
  
-### 🩺 [Online Doctor Appointment System](https://github.com/DilkhushNapit/MyDoctor-Appointment-System)
+### 🩺 [Online Doctor Appointment System](https://mydoctor-frontend2.onrender.com/)
 **Node.js · Express.js · React.js · MongoDB Atlas · Render · JWT**
 - Full-stack health-tech booking platform with patient registration, doctor browsing, and appointment scheduling
 - Secure JWT authentication with bcrypt password hashing
 - RESTful APIs built with Express.js, deployed on Render with MongoDB Atlas
 
-### 📚 [Book Review Web Application](https://github.com/DilkhushNapit/Book-Review-Web-App)
+### 📚 [Book Review Web Application](https://book-review-gdvd.vercel.app/)
 **FastAPI · React.js · Express.js · Node.js · MongoDB · JWT**
 - Interactive platform where users publish, manage, and discover book reviews and ratings
 - FastAPI-based JWT authentication microservice with React Context API for centralized state management
