@@ -1,48 +1,23 @@
 <div align="center">
 
-  <!-- Native Self-Contained SVG Header Banner (Guaranteed 100% Visibility) -->
-  <svg viewBox="0 0 800 200" width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#0D1117" />
-        <stop offset="50%" stop-color="#161B22" />
-        <stop offset="100%" stop-color="#0D1117" />
-      </linearGradient>
-      <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#00F2FE" />
-        <stop offset="50%" stop-color="#4FACFE" />
-        <stop offset="100%" stop-color="#00F2FE" />
-      </linearGradient>
-      <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#00F2FE" stop-opacity="0.25"/>
-        <stop offset="50%" stop-color="#4FACFE" stop-opacity="0.15"/>
-        <stop offset="100%" stop-color="#7F00FF" stop-opacity="0.25"/>
-      </linearGradient>
-    </defs>
-    <rect width="800" height="200" rx="12" fill="url(#bgGrad)" stroke="#30363D" stroke-width="1.5"/>
-    <rect x="0" y="0" width="800" height="4" rx="2" fill="url(#accentGrad)" />
-    <path d="M 0,160 Q 200,120 400,160 T 800,160 L 800,200 L 0,200 Z" fill="url(#waveGrad)" />
-    <text x="400" y="85" text-anchor="middle" fill="url(#accentGrad)" font-family="Fira Code, monospace, system-ui" font-weight="700" font-size="38" letter-spacing="2">DILKHUSH NAPIT</text>
-    <text x="400" y="125" text-anchor="middle" fill="#8B949E" font-family="system-ui, -apple-system, sans-serif" font-weight="500" font-size="17" letter-spacing="1">NIT Sikkim ECE '27 • Backend &amp; Full-Stack Engineer</text>
-  </svg>
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Dilkhush%20Napit&fontSize=42&fontAlign=50&fontAlignY=35&desc=Backend%20%26%20Full-Stack%20Engineer%20%7C%20NIT%20Sikkim%20ECE&descSize=18&descAlign=50&descAlignY=60" width="100%" alt="Dilkhush Napit Header" />
 
   <br />
 
   <!-- Typing SVG -->
   <a href="https://github.com/Dilkhushnapit">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=B.Tech+ECE+@+NIT+Sikkim+(2023-2027);Backend+%26+Full-Stack+Engineer+(Node.js+%2B+FastAPI);Embedded+Systems+Intern+@+Pixolish+System;SAS+Bitathon+2025+National+Top+6+Ranker" alt="Typing Title" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=00F2FE&center=true&vCenter=true&width=550&lines=Backend+%26+Full-Stack+Engineer;B.Tech+ECE+@+NIT+Sikkim+('27);Embedded+Systems+Intern+@+Pixolish;SAS+Bitathon+2025+National+Top+6" alt="Typing Title" />
   </a>
 
   <br /><br />
 
   <!-- Quick Status Badges -->
-  <a href="https://linkedin.com/in/dilkhush-napit">
-    <img src="https://img.shields.io/badge/Status-Open_for_SDE_Internships_%26_Roles-00F2FE?style=flat-square&logoColor=white" alt="Status" />
-  </a>
-  <a href="mailto:napitdilkhush49@gmail.com">
-    <img src="https://img.shields.io/badge/Email-napitdilkhush49%40gmail.com-007ACC?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Dilkhushnapit&color=00F2FE&style=flat-square&label=VIEWS" alt="Views Counter" />
+  <p align="center">
+    <a href="https://linkedin.com/in/dilkhush-napit"><img src="https://img.shields.io/badge/Status-Open_for_SDE_Roles-00F2FE?style=flat-square" alt="Status" /></a>
+    <a href="mailto:napitdilkhush49@gmail.com"><img src="https://img.shields.io/badge/Email-napitdilkhush49%40gmail.com-007ACC?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <img src="https://komarev.com/ghpvc/?username=Dilkhushnapit&color=00F2FE&style=flat-square&label=VIEWS" alt="Views Counter" />
+  </p>
 
 </div>
 
