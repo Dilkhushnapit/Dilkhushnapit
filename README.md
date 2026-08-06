@@ -1,9 +1,19 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Dilkhush%20Napit&fontSize=42&fontAlign=50&fontAlignY=35&desc=Backend%20%26%20Full-Stack%20Engineer%20%7C%20NIT%20Sikkim%20ECE&descSize=18&descAlign=50&descAlignY=60" width="100%" alt="Dilkhush Napit Header" />
+  # ⚡ DILKHUSH NAPIT
+  ### **Backend & Full-Stack Engineer • NIT Sikkim (ECE '27)**
 
-  <br />
+  <p align="center">
+    <a href="https://linkedin.com/in/dilkhush-napit">
+      <img src="https://img.shields.io/badge/NIT_Sikkim-B.Tech_ECE_'27-00F2FE?style=for-the-badge&logo=education&logoColor=white" />
+    </a>
+    <a href="https://linkedin.com/in/dilkhush-napit">
+      <img src="https://img.shields.io/badge/Stack-Node.js_%2B_FastAPI-007ACC?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    </a>
+    <a href="https://leetcode.com/u/Dilkhush_napit/">
+      <img src="https://img.shields.io/badge/Bitathon_2025-Rank_%236_Nationwide-FF9933?style=for-the-badge&logo=trophy&logoColor=white" />
+    </a>
+  </p>
 
   <!-- Typing SVG -->
   <a href="https://github.com/Dilkhushnapit">
