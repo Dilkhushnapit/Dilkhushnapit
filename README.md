@@ -7,7 +7,7 @@
 
   <!-- Animated Typing Title -->
   <a href="https://github.com/Dilkhushnapit">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Software+Developer+Intern+@+Romify;Backend+%26+Full-Stack+Engineer+(Node.js+%2B+FastAPI);B.Tech+ECE+@+NIT+Sikkim+('27);SAS+Bitathon+2025+National+Top+6+Ranker" alt="Typing Title" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Software+Developer+Intern+@+Romify;Backend+%26+Full-Stack+Engineer+(Node.js+%2B+FastAPI);B.Tech+ECE+@+NIT+Sikkim+('27);Building+Scalable+Web+Apps+%26+APIs" alt="Typing Title" />
   </a>
 
   <br /><br />
@@ -16,14 +16,13 @@
   <p align="center">
     <a href="https://linkedin.com/in/dilkhush-napit"><img src="https://img.shields.io/badge/NIT_Sikkim-B.Tech_ECE_'27-00F2FE?style=for-the-badge&logo=education&logoColor=white" /></a>
     <a href="https://linkedin.com/in/dilkhush-napit"><img src="https://img.shields.io/badge/Romify-Backend_Intern-8B5CF6?style=for-the-badge&logo=node.js&logoColor=white" /></a>
-    <a href="https://leetcode.com/u/Dilkhush_napit/"><img src="https://img.shields.io/badge/Bitathon_2025-Rank_%236_Nationwide-FF9933?style=for-the-badge&logo=trophy&logoColor=white" /></a>
+    <a href="https://leetcode.com/u/Dilkhush_napit/"><img src="https://img.shields.io/badge/LeetCode-Dilkhush__napit-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   </p>
 
   <!-- Connect & Views Pills -->
   <p align="center">
     <a href="https://linkedin.com/in/dilkhush-napit"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:napitdilkhush49@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-    <a href="https://leetcode.com/u/Dilkhush_napit/"><img src="https://img.shields.io/badge/LeetCode-Dilkhush__napit-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
     <img src="https://komarev.com/ghpvc/?username=Dilkhushnapit&color=00F2FE&style=flat-square&label=VIEWS" alt="Views Counter" />
   </p>
 
@@ -33,9 +32,8 @@
  
 I'm a final-year **Electronics and Communication Engineering** student at **NIT Sikkim** (graduating 2027), focused on **backend development, REST API design, and full-stack web architectures**. I enjoy building scalable, production-ready applications — from Node.js/FastAPI REST microservices to responsive React applications — and I'm actively preparing for **SDE and Backend Developer** roles.
  
-- 🎓 **Education** — B.Tech in ECE, NIT Sikkim (CGPA: 7.82) · 12th Grade: 95.40%
+- 🎓 **Education** — B.Tech in ECE, NIT Sikkim (CGPA: 7.82)
 - 💼 **Experience** — Software / Backend Developer Intern @ **Romify**
-- 🏆 **Achievement** — **Rank #6 nationwide** out of 2,000+ teams, SAS Bitathon 2025
 - 🎯 **Currently seeking** — SDE / Backend Developer / Full-Stack roles
 - ⚡ **Fun fact** — I like solving problems twice: once on LeetCode, once in production
 
@@ -47,10 +45,6 @@ I'm a final-year **Electronics and Communication Engineering** student at **NIT 
 - Built scalable RESTful microservices using **Node.js, Express.js, and MongoDB** for flight search, airport directory processing, and travel content platforms
 - Implemented fault-tolerant API routing architectures with fallback mechanisms for database connectivity and dynamic data aggregation
 - Engineered full CRUD API pipelines, input sanitization middleware, and CORS policies for seamless client-side integration
-
-**🏆 SAS Bitathon 2025 — Rank #6 Nationwide**
-- Ranked **#6 among 2,000+ teams** nationally in a SAS Data Analytics & Mining competition
-- Analyzed 1,000+ records from the Global Findex dataset to uncover key barriers to digital banking adoption
 
 ---
  
