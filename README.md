@@ -1,7 +1,30 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Dilkhush%20Napit&fontSize=42&fontAlign=50&fontAlignY=35&desc=Backend%20%26%20Full-Stack%20Engineer%20%7C%20NIT%20Sikkim%20ECE&descSize=18&descAlign=50&descAlignY=60" width="100%" alt="Dilkhush Napit Header" />
+  <!-- Native Self-Contained SVG Header Banner (Guaranteed 100% Visibility) -->
+  <svg viewBox="0 0 800 200" width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#0D1117" />
+        <stop offset="50%" stop-color="#161B22" />
+        <stop offset="100%" stop-color="#0D1117" />
+      </linearGradient>
+      <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#00F2FE" />
+        <stop offset="50%" stop-color="#4FACFE" />
+        <stop offset="100%" stop-color="#00F2FE" />
+      </linearGradient>
+      <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#00F2FE" stop-opacity="0.25"/>
+        <stop offset="50%" stop-color="#4FACFE" stop-opacity="0.15"/>
+        <stop offset="100%" stop-color="#7F00FF" stop-opacity="0.25"/>
+      </linearGradient>
+    </defs>
+    <rect width="800" height="200" rx="12" fill="url(#bgGrad)" stroke="#30363D" stroke-width="1.5"/>
+    <rect x="0" y="0" width="800" height="4" rx="2" fill="url(#accentGrad)" />
+    <path d="M 0,160 Q 200,120 400,160 T 800,160 L 800,200 L 0,200 Z" fill="url(#waveGrad)" />
+    <text x="400" y="85" text-anchor="middle" fill="url(#accentGrad)" font-family="Fira Code, monospace, system-ui" font-weight="700" font-size="38" letter-spacing="2">DILKHUSH NAPIT</text>
+    <text x="400" y="125" text-anchor="middle" fill="#8B949E" font-family="system-ui, -apple-system, sans-serif" font-weight="500" font-size="17" letter-spacing="1">NIT Sikkim ECE '27 • Backend &amp; Full-Stack Engineer</text>
+  </svg>
 
   <br />
 
