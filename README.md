@@ -1,15 +1,32 @@
 <div align="center">
-# Hi, I'm Dilkhush Napit 👋
- 
-### Backend & Full-Stack Engineer | B.Tech ECE, NIT Sikkim '27
- 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Backend+%26+Full-Stack+Engineer;Software+Developer+Intern+@+Romify;Building+with+Node.js+%2B+FastAPI+%2B+MongoDB;6th+Rank+Nationwide+-+SAS+Bitathon+2025" alt="Typing SVG" />
-<br/>
-<a href="https://linkedin.com/in/dilkhush-napit"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:napitdilkhush49@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://leetcode.com/u/Dilkhush_napit/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<img src="https://komarev.com/ghpvc/?username=Dilkhushnapit&color=00F2FE&style=for-the-badge&label=PROFILE+VIEWS" alt="Views" />
- 
+
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,00f2fe,50,4facfe,100,7f00ff&height=220&section=header&text=Dilkhush%20Napit&fontSize=42&fontAlign=50&fontAlignY=36&desc=Backend%20%26%20Full-Stack%20Engineer%20%7C%20NIT%20Sikkim%20ECE&descSize=18&descAlign=50&descAlignY=62" width="100%" alt="Dilkhush Napit Header" />
+
+  <br />
+
+  <!-- Animated Typing Title -->
+  <a href="https://github.com/Dilkhushnapit">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Software+Developer+Intern+@+Romify;Backend+%26+Full-Stack+Engineer+(Node.js+%2B+FastAPI);B.Tech+ECE+@+NIT+Sikkim+('27);SAS+Bitathon+2025+National+Top+6+Ranker" alt="Typing Title" />
+  </a>
+
+  <br /><br />
+
+  <!-- Highlight Pill Badges -->
+  <p align="center">
+    <a href="https://linkedin.com/in/dilkhush-napit"><img src="https://img.shields.io/badge/NIT_Sikkim-B.Tech_ECE_'27-00F2FE?style=for-the-badge&logo=education&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/dilkhush-napit"><img src="https://img.shields.io/badge/Romify-Backend_Intern-8B5CF6?style=for-the-badge&logo=node.js&logoColor=white" /></a>
+    <a href="https://leetcode.com/u/Dilkhush_napit/"><img src="https://img.shields.io/badge/Bitathon_2025-Rank_%236_Nationwide-FF9933?style=for-the-badge&logo=trophy&logoColor=white" /></a>
+  </p>
+
+  <!-- Connect & Views Pills -->
+  <p align="center">
+    <a href="https://linkedin.com/in/dilkhush-napit"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:napitdilkhush49@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+    <a href="https://leetcode.com/u/Dilkhush_napit/"><img src="https://img.shields.io/badge/LeetCode-Dilkhush__napit-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
+    <img src="https://komarev.com/ghpvc/?username=Dilkhushnapit&color=00F2FE&style=flat-square&label=VIEWS" alt="Views Counter" />
+  </p>
+
 </div>
 <br/>
 ## 🧭 About Me
