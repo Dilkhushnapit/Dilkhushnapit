@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
 # Hi, I'm Dilkhush Napit 👋
  
 ### Backend & Full-Stack Engineer | B.Tech ECE, NIT Sikkim '27
