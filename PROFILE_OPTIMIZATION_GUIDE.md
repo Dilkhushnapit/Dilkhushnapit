@@ -1,16 +1,23 @@
 # 🚀 Complete GitHub Profile Setup, Asset Inventory & Recruiter Optimization Blueprint
 
 > **Prepared for:** Dilkhush Napit (NIT Sikkim ECE '27)  
-> **Role Targeted:** Software Development Engineer (SDE) / Backend Developer / Embedded Systems Engineer  
+> **Role Targeted:** Software Development Engineer (SDE) / Backend Developer / Full-Stack Engineer  
 > **Repository:** `Dilkhushnapit/Dilkhushnapit`
 
 ---
 
 ## 📌 Profile Summary & Background Highlights
 * **Education**: B.Tech in Electronics & Communication Engineering (ECE) at **National Institute of Technology (NIT), Sikkim** (CGPA: 7.82/10, 12th: 95.40%)
-* **Internship**: **Embedded Systems Intern** at **Pixolish System** (2025)
+* **Internship**: **Software / Backend Developer Intern** at **Romify**
 * **Achievement**: **Rank #6 Nationwide** out of 2,000+ teams in **Bitathon 2025 (SAS Data Analytics & Mining)**
 * **LeetCode Profile**: [https://leetcode.com/u/Dilkhush_napit/](https://leetcode.com/u/Dilkhush_napit/)
+
+---
+
+## 💼 Romify Internship Technical Highlights
+* **Node.js, Express.js, MongoDB Architecture**: Built scalable backend APIs for flight lookup, airport metadata, and blog/travel content publishing.
+* **Fault-Tolerant System Design**: Engineered in-memory query fallbacks for high availability and database connection resilience.
+* **REST API Middleware**: Designed input validation, CORS configuration, and dynamic sorting for frontend consumption.
 
 ---
 
@@ -22,18 +29,6 @@ Run the following commands in your terminal inside the `Dilkhushnapit` directory
 cd /Users/dilkhushnapit/Desktop/Portfolio/Dilkhushnapit
 
 git add README.md PROFILE_OPTIMIZATION_GUIDE.md
-git commit -m "feat: add NIT Sikkim education, Pixolish internship, Bitathon top 6 achievement and correct LeetCode link"
+git commit -m "feat: update internship experience to Romify Backend Developer Intern"
 git push origin main
 ```
-
----
-
-## 🏆 Recruiter Scorecard Update
-
-| Metric | Rating | Highlights |
-| :--- | :---: | :--- |
-| **Tier-1 / NIT Institution Branding** | **10.0 / 10** | Prominently showcases NIT Sikkim B.Tech ECE credentials. |
-| **Industry Internship Experience** | **9.5 / 10** | Highlights real-world embedded security systems work at Pixolish System. |
-| **National Hackathon / Competition** | **10.0 / 10** | SAS Bitathon Rank 6 out of 2,000+ teams nationwide. |
-| **Technical Stack & Projects** | **9.5 / 10** | Full-Stack MERN + FastAPI + Render + MongoDB Atlas + ESP32 IoT. |
-| **Overall Profile Rating** | **9.7 / 10** | **Top 3% Student SDE Profile Nationwide** |
