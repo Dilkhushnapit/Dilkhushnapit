@@ -101,26 +101,7 @@ I'm a final-year **Electronics and Communication Engineering** student at **NIT 
 **Python · FastAPI · OpenAI API**
 - Chatbot that converts natural language queries into structured JSON/CSV data insights
 
----
- 
-## 📊 GitHub Analytics
- 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dilkhushnapit&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilkhushnapit&theme=dark&hide_border=true&layout=compact&langs_count=6" width="48%" alt="Top Languages" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dilkhushnapit&theme=dark&hide_border=true" width="98%" alt="GitHub Streak" />
-</div>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dilkhushnapit/Dilkhushnapit/output/github-contribution-grid-snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dilkhushnapit/Dilkhushnapit/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Dilkhushnapit/Dilkhushnapit/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
 
----
  
 ## 🤝 Let's Connect
  
